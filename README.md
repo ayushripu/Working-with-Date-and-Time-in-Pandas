@@ -43,7 +43,7 @@ Working with dates and times is a common task in data analysis. This repository 
 
 ---
 
-## 🎯 Key Concepts Covered
+## 🎯 Key Concepts Covered   
 
 | Concept | Description |
 |---------|-------------|

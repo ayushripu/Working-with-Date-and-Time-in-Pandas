@@ -13,7 +13,7 @@ A comprehensive guide to handling date and time data using Python's Pandas libra
 - [Format Codes](#format-codes)
 - [Sample Output](#sample-output)
 - [Requirements](#requirements)
-- [Author](#author)
+- [Author](#author) 
 
 ---
 
